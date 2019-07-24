@@ -30,12 +30,12 @@ photo = {
         '<div class="ImageInCard" style="height:' +
         (330 * imageY) / imageX +
         'px">' +
-        '<a data-fancybox="gallery" href="https://github.com/asdfv1929/BlogPhotos/blob/master/Images/' +
+        '<a data-fancybox="gallery" href="https://github.com/johnson0903/album/blob/master/' +
         imgNameWithPattern +
         '?raw=true" data-caption="' +
         imgName +
         '">' +
-        '<img src="https://github.com/asdfv1929/BlogPhotos/blob/master/Images/' +
+        '<img src="https://github.com/johnson0903/album/blob/master/' +
         imgNameWithPattern +
         '?raw=true"/>' +
         '</a>' +
